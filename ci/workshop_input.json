@@ -5,11 +5,11 @@
     },
     {
         "ParameterKey": "EmailAddress",
-        "ParameterValue": "email@yourdomain.com"
+        "ParameterValue": "licolon@amazon.com"
     },
     {
         "ParameterKey": "KeyPairName",
-        "ParameterValue": "YOUR-KEYPAIR-HERE"
+        "ParameterValue": "quickstart"
     },
     {
         "ParameterKey": "RemoteAccessCIDR",
